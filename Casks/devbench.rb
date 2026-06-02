@@ -6,7 +6,7 @@ cask "devbench" do
   homepage "https://www.devbench.co.in"
 
   on_arm do
-    sha256 "13f715395f08f2a97540f0916a7d9ad5f633d802bfd36f9996dde390a72ee327"
+    sha256 "6d62490833f6a8a83e8d1a45e74813584e956b50a1181172e1c8c8367f49429b"
     url "https://github.com/SaiBhargavRallapalli/devbench/releases/download/v0.1.0/DevBench-0.1.0-arm64.dmg",
         verified: "github.com/SaiBhargavRallapalli/"
   end
