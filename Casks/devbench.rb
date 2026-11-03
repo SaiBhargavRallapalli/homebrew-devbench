@@ -1,19 +1,19 @@
 cask "devbench" do
-  version "0.1.1"
+  version "0.1.0"
 
   name "DevBench"
   desc "Privacy-first browser developer tools (desktop app)"
   homepage "https://www.devbench.co.in"
 
   on_arm do
-    sha256 "eca53cb0fbe61d0e91d2086fd6e3f4281f82dae158853a331a759435d2edbe69"
-    url "https://github.com/SaiBhargavRallapalli/devbench/releases/download/v0.1.1/DevBench-0.1.1-arm64.dmg",
+    sha256 "13f715395f08f2a97540f0916a7d9ad5f633d802bfd36f9996dde390a72ee327"
+    url "https://github.com/SaiBhargavRallapalli/devbench/releases/download/v0.1.0/DevBench-0.1.0-arm64.dmg",
         verified: "github.com/SaiBhargavRallapalli/"
   end
 
   on_intel do
-    sha256 "cce56f78f6adc38739d45ae577e5bc23a42d42344023dcb699460396880671dc"
-    url "https://github.com/SaiBhargavRallapalli/devbench/releases/download/v0.1.1/DevBench-0.1.1-x64.dmg",
+    sha256 "3d01e9925545da9471381ad04bfcdadae6893777a137de69f0a31127ab77322e"
+    url "https://github.com/SaiBhargavRallapalli/devbench/releases/download/v0.1.0/DevBench-0.1.0-x64.dmg",
         verified: "github.com/SaiBhargavRallapalli/"
   end
 

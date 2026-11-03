@@ -1,8 +1,8 @@
 class Devbench < Formula
   desc "Privacy-first browser developer tools and CLI helpers"
   homepage "https://www.devbench.co.in"
-  url "https://github.com/SaiBhargavRallapalli/devbench/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "0a2b44167ec405cf1c078bcc2d05a2cfa7426b22d4878ca742d9de590525a547"
+  url "https://github.com/SaiBhargavRallapalli/devbench/archive/refs/tags/v0.1.0.tar.gz"
+  sha256 "06f7400706fc9929fe941002f9e926a108f8cab516a71ab0e6481a9a7f1d7b96"
   license "MIT"
   head "https://github.com/SaiBhargavRallapalli/devbench.git", branch: "main"
 
